@@ -1,5 +1,5 @@
-<h1>Olá 🖐🏻</h1>
-<p>Bem-vindo(a) ao meu perfil do GitHub! 👋🏻</p>
+<h1>Olá 👋🏻</h1>
+<p>Bem-vindo(a) ao meu perfil do GitHub!</p>
 
 <h2>Sobre mim</h2>
 <ul>
